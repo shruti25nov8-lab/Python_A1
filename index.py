@@ -8,7 +8,7 @@
 # 5 < 10 ans 5 > 3
 # true 
 
-# ans 3        1. False     2.false     3. true
+# ans 3        1. true     2.false     3. true
 
 # ans 4
 # N = 5678
